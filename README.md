@@ -59,6 +59,10 @@ We love contributors! If you have a cool idea for a feature:
 
   *  **Open a Pull Request.**
 
+### ⚠️ Security Note
+
+This tool is for **development** and **testing** purposes only. Tunnelling exposes a port from your local machine to the internet. Always turn off the script when you are done.
+
 
 
 
