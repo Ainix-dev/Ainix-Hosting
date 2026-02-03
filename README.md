@@ -40,7 +40,7 @@ Auto-Host is a sophisticated, Linux-optimized GUI tool designed for developers w
 Download the source code and install the necessary Python libraries:
 
 ```bash
-git clone [https://github.com/Ainix-dev/Ainix-Hosting]
+git clone https://github.com/Ainix-Hosting/ainix-hosting.git
 cd ainix-hosting
 pip install flask customtkinter werkzeug
 ```
