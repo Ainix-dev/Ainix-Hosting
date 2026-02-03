@@ -35,12 +35,30 @@ Auto-Host is a sophisticated, Linux-optimized GUI tool designed for developers w
 
 ## 🛠️ Installation & Setup
 
-### 1. System Dependencies (Linux)
-Before running the app, ensure your system has the necessary Python-TK and Node.js components:
+### Clone and Install Python Stack
+
+Download the source code and install the necessary Python libraries:
 
 ```bash
-# Update system and install Tkinter
-sudo apt update && sudo apt install python3-tk -y
+git clone [https://github.com/your-username/ainix-hosting.git](https://github.com/your-username/ainix-hosting.git)
+cd ainix-hosting
+pip install flask customtkinter werkzeug
+```
 
-# Install Localtunnel globally via npm
-sudo npm install -g localtunnel
+### 🤝 Contributing
+
+We love contributors! If you have a cool idea for a feature:
+
+  *  **Fork the repo.**
+
+  *  **Create your branch:** git checkout -b feature/CoolFeature
+
+  *  **Commit changes:** git commit -m 'Add CoolFeature'
+
+  *  **Push to branch:** git push origin feature/CoolFeature
+
+  *  **Open a Pull Request.**
+
+
+
+
